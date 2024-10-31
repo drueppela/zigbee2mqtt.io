@@ -34,6 +34,10 @@ pageClass: device-page
 
 * `illuminance_lux_calibration`: Calibrates the illuminance_lux value (percentual offset), takes into effect on next report of device. The value must be a number.
 
+## Pairing
+To pair the device to your coordinator, you need to hold the button above the batteries for around 5 seconds. The indicator LED will start blinking and the device will enter pairing mode.
+
+If you are having issues during pairing, click the button every few seconds to keep the sensor alive. Sometimes it can take a while.
 
 ## Exposes
 
