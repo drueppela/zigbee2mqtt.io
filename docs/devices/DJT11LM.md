@@ -74,6 +74,15 @@ Remember that the device sends accelerometer values a few seconds after the actu
 <!-- Notes END: Do not edit below this line -->
 
 
+### Firmware updates
+Aqara does *not* provide publicly available firmware files for the DJT11LM. 
+Therefore, updating its firmware via Zigbee2MQTT (or any other third-party OTA mechanism) 
+is currently not possible.
+
+If Aqara ever releases an update, it would typically be distributed through the 
+official Aqara or Mi Home gateway/app. However, no standalone files have been 
+made available for manual updates.
+
 
 ## Options
 *[How to use device type specific configuration](../guide/configuration/devices-groups.md#specific-device-options)*
